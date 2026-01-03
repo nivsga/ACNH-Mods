@@ -8,4 +8,5 @@ Mods for Animal Crossing: New Horizons made by me.
 [Mind Your Own Business!](https://github.com/nivsga/MindYourOwnBusiness)  
 [No More NMTs](https://github.com/nivsga/NoMoreNMTs)  
 [Shopping App After First Order](https://github.com/nivsga/ShoppingAppAfterFirstOrder)  
-[Thankful Snowman](https://github.com/nivsga/ThankfulSnowman)
+[Thankful Snowman](https://github.com/nivsga/ThankfulSnowman)  
+[Ugh not again](https://github.com/nivsga/Ugh-not-again)
